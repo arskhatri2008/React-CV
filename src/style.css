@@ -1,0 +1,84 @@
+/* style.css */
+
+/* Reset some default styles */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Global styles */
+  body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  /* CV container */
+  .cv-container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Header */
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Contact info */
+  .contact-info {
+    margin-bottom: 20px;
+  }
+  
+  .contact-info span {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  /* Objectives */
+  .objectives h3 {
+    margin-bottom: 10px;
+  }
+  
+  /* Education */
+  .education h3,
+  .certificates h3,
+  .personal-info h3,
+  .reference h3 {
+    margin-bottom: 10px;
+  }
+  
+  .education ul,
+  .certificates ul,
+  .personal-info div,
+  .reference ul {
+    margin-left: 20px;
+  }
+  
+  /* Styling links */
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Media queries for responsiveness */
+  @media screen and (max-width: 768px) {
+    .cv-container {
+      padding: 10px;
+    }
+  
+    .education ul,
+    .certificates ul,
+    .personal-info div,
+    .reference ul {
+      margin-left: 10px;
+    }
+  }
+  
