@@ -98,10 +98,10 @@ function Hi() {
         </div>
       </div>
       <br></br>
-      <div className="personnal-info">
+      <div className="personal-info">
         <h3>Personal Information</h3>
         <div>
-          <div>Faher Name: <strong>Muhammad Saleem</strong></div>
+          <div>Father Name: <strong>Muhammad Saleem</strong></div>
           <div>CNIC: <strong>42301-8285831-1</strong></div>
           <div>Gender: <strong>Male</strong></div>
           <div>Marital Status: <strong>Married</strong></div>
