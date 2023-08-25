@@ -70,7 +70,7 @@ function Hi() {
           coding skills. Committed to continuous learning and staying current
           with industry trends and technologies. Excited to collaborate with
           experienced professionals to create engaging and user-friendly web
-          experiences that make a positive impact. Seeking an entry-level
+          experiences that make a positive impact. Seeking an 
           opportunity to grow and thrive in a fast-paced and innovative
           environment.
         </p>
